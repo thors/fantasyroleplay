@@ -1,0 +1,18 @@
+This repository contains some work on pen&paper fantasy roleplay. The idea is to collect cliparts, archetype descriptions, rulesets etc. and combine them to different concepts. Feel free to fork, but if you try to create a really different new concept, and if you think it fits to my goals as well, please also create a new subdirectory for it and consider sending me a pull request to github.com/tho74, so I can keep a complete collection.
+
+Goals:
+My goal is to keep this collection easy to play, easy to maintain and the requierements for additional material low. Therefore
+
+* The geography of this fantasy world matches the one of the earth; you can use actual sattelite photos rather than creating your own or purchasing them.
+* It should be possible to play with D6 (dices with 6 surfaces, not the special ones you find in some game shops
+* Playing should be fun, so rules shoulbe be simple, and not needed to be followed to the last dot.
+
+Buildrequirements:
+The supported build platform is Linux. You can try to build with any other OS as well, but I will not care if it does not work. To create the PDF files with rules and game description from this source tree, you will need
+
+* Linux
+* LaTeX
+* Ruby
+
+How to build:
+run make in the main folder.

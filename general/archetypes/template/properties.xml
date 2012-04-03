@@ -1,0 +1,11 @@
+<archetype>
+	<name>Template</name>
+	<physical>
+		<height><max></max><min></min></height>
+		<weight><max></max><min></min></weight>
+	</physical>
+	<>
+	<adrenalin></adrenalin>
+	<courage></courage>
+	<logic></logic>
+</archetype>
